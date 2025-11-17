@@ -42,8 +42,6 @@ Leitura de parâmetros automotivos e exibição em gauge no painel.
 ### 🔹 **Automação com Motor de Passo (trava automatizada)**
 Movimentação horizontal e vertical com dois motores para automação.
 
-### 🔹 **Robô de Pintura Automotiva (TCC)**
-Sistema automatizado com controle de movimentos e gerenciamento de pintura.
 
 ### 🔹 **Automação de Testes para Radar Meteorológico**
 Parte do meu TCC — automação de emissor/receptor para testes de sinal.
@@ -51,11 +49,11 @@ Parte do meu TCC — automação de emissor/receptor para testes de sinal.
 ---
 
 ## 📞 Contato
-- **E-mail:** walaoliveira@contato.com (coloque seu e-mail real aqui)  
-- **LinkedIn:** (coloque aqui quando quiser criar)  
+- **E-mail:**kenoliveira8@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/wala-oliveira-0b4ba5199/  
 - **GitHub:** https://github.com/Wala-Oliveira  
 
-Se quiser, podemos criar um LinkedIn otimizado também.
+
 
 ---
 
